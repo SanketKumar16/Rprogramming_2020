@@ -1,2 +1,1 @@
-# Rprogramming_2020
-Repository for R programming assignments
+# Analysis_Dortmund_2020
